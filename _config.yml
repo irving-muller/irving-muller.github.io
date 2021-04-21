@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am currently a PhD candidate at Polytechnique Montreal. My topics of research include Data Mining, Deep Learning, Natural Language Processing, and Bug report deduplication.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">LinkedInd</a> 
+  <a href="https://www.linkedin.com/in/irving-muller-rodrigues/">LinkedInd</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
